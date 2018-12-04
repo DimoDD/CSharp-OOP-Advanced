@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimod\\source\\repos\\InterfacesDemo\\InterfacesDemo\\Cars.csproj",
+      "projectUniqueName": "C:\\Repos\\CSharp-OOP-Advanced\\InterfacesDemo\\InterfacesDemo\\Cars.csproj",
       "projectName": "Cars",
-      "projectPath": "C:\\Users\\dimod\\source\\repos\\InterfacesDemo\\InterfacesDemo\\Cars.csproj",
+      "projectPath": "C:\\Repos\\CSharp-OOP-Advanced\\InterfacesDemo\\InterfacesDemo\\Cars.csproj",
       "packagesPath": "C:\\Users\\dimod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimod\\source\\repos\\InterfacesDemo\\InterfacesDemo\\obj\\",
+      "outputPath": "C:\\Repos\\CSharp-OOP-Advanced\\InterfacesDemo\\InterfacesDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

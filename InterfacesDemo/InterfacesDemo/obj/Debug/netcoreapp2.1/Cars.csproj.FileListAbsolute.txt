@@ -9,3 +9,14 @@ C:\Users\dimod\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.
 C:\Users\dimod\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
 C:\Users\dimod\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.dll
 C:\Users\dimod\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.pdb
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.1\Cars.deps.json
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.1\Cars.dll
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.1\Cars.pdb
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.csprojAssemblyReference.cache
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.dll
+C:\Repos\CSharp-OOP-Advanced\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.1\Cars.pdb
