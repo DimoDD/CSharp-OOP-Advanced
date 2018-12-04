@@ -1,33 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Ferrari
+﻿public class Ferrari : IDriveable
 {
-    public class Ferrari : IDriveable
+    public Ferrari(string driver)
     {
-        public Ferrari(string driver)
-        {
-            this.Model = "488-Spider";
-            this.Driver = driver;
-        }
+        this.Model = "488-Spider";
+        this.Driver = driver;
+    }
 
-        public string Model { get; private set; }
-        public string Driver { get; private set; }
+    public string Model { get; private set; }
+    public string Driver { get; private set; }
 
-        public string PushGas()
-        {
-            return "Zadu6avam sA!";
-        }
+    public string PushGas()
+    {
+        return "Zadu6avam sA!";
+    }
 
-        public string UseBrakes()
-        {
-            return "Brakes!";
-        }
+    public string UseBrakes()
+    {
+        return "Brakes!";
+    }
 
-        public override string ToString()
-        {
-            return $"{Model}/{UseBrakes()}/{PushGas()}/{Driver}";
-        }
+    public override string ToString()
+    {
+        return $"{Model}/{UseBrakes()}/{PushGas()}/{Driver}";
     }
 }
+

@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Ferrari
+﻿public interface IDriveable
 {
-    public interface IDriveable
-    {
-        string UseBrakes();
+    string UseBrakes();
 
-        string PushGas();
-    }
+    string PushGas();
 }
+

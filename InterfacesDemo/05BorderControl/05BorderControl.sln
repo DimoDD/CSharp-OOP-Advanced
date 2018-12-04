@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BorderControl", "05BorderControl\05. BorderControl.csproj", "{7A5C5329-6DB1-49B1-A2CA-2E53529CAC25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem4Telephony", "..\Problem 4. Telephony\Problem 4. Telephony\Problem4Telephony.csproj", "{98DA179F-4C32-41FE-B2D2-1BB277095450}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ferrari", "..\Problem 3 Ferrari\Ferrari\Ferrari.csproj", "{53702516-E76B-4530-A326-BF9878C9FB67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "..\Problem 2 Multiple Implementation\Problem 2 Multiple Implementation\PersonInfo.csproj", "{24525D33-193C-4CC8-9F3C-ED77FAE0A146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5C5329-6DB1-49B1-A2CA-2E53529CAC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5C5329-6DB1-49B1-A2CA-2E53529CAC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5C5329-6DB1-49B1-A2CA-2E53529CAC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5C5329-6DB1-49B1-A2CA-2E53529CAC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DA179F-4C32-41FE-B2D2-1BB277095450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DA179F-4C32-41FE-B2D2-1BB277095450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DA179F-4C32-41FE-B2D2-1BB277095450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DA179F-4C32-41FE-B2D2-1BB277095450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53702516-E76B-4530-A326-BF9878C9FB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53702516-E76B-4530-A326-BF9878C9FB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53702516-E76B-4530-A326-BF9878C9FB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53702516-E76B-4530-A326-BF9878C9FB67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24525D33-193C-4CC8-9F3C-ED77FAE0A146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24525D33-193C-4CC8-9F3C-ED77FAE0A146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24525D33-193C-4CC8-9F3C-ED77FAE0A146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24525D33-193C-4CC8-9F3C-ED77FAE0A146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12827073-69AC-4CAB-9228-CEBE3E3F1221}
+	EndGlobalSection
+EndGlobal
