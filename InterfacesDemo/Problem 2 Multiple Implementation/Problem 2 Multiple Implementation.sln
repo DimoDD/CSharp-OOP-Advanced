@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 Multiple Implementation", "Problem 2 Multiple Implementation\Problem 2 Multiple Implementation.csproj", "{09DF86C0-3C43-40D8-A3CC-9F452F485E1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "Problem 2 Multiple Implementation\PersonInfo.csproj", "{09DF86C0-3C43-40D8-A3CC-9F452F485E1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
